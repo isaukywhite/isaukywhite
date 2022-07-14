@@ -30,6 +30,6 @@
   <a href="https://t.me/IsacMartins012" target="_blank" alt="Isac-Telegram"><img target="_blank" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </div>
 
-##
+###
 
 ![Snake Animation](https://github.com/isaukywhite/isaukywhite/blob/output/github-contribution-grid-snake.svg)
