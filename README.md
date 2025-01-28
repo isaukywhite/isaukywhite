@@ -30,4 +30,4 @@
 
 ###
 
-![Snake Animation](https://github.com/isaukywhite/isaukywhite/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://github.com/isaukywhite/isaukywhite/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
