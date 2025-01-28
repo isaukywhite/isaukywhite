@@ -1,4 +1,4 @@
-name: Generate Datas
+name: Generate Snake Game
 
 on:
   schedule:
@@ -10,14 +10,13 @@ permissions:
 
 jobs:
   build:
-    name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
-        uses: Platane/snk@v3
+      - name: Generate Snake Game from GitHub Contribution Grid
+        uses: Platane/snk@v3.2.0
         with:
           github_user_name: isaukywhite
           outputs: |
