@@ -10,6 +10,7 @@ permissions:
 
 jobs:
   build:
+    name: Jobs to Update Datas
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
@@ -21,6 +22,10 @@ jobs:
           github_user_name: isaukywhite
           outputs: |
             dist/github-contribution-grid-snake.svg
+          color_snake: "#8A2BE2"       # Cor da cobra (roxo)
+          color_dots: "#00FF00"        # Cor das contribuições (verde)
+          color_empty: "#000000"       # Fundo preto
+          color_border: "#FFFFFF"      # Cor da borda branca
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
