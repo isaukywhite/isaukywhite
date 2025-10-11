@@ -81,7 +81,7 @@ class IsacMartins:
 
 </div>
 
-## 📊 > MATRIX.STATS_
+## 📊 > USER.STATS_
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaukywhite&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=00FF41&bg_color=0d1117"/>
