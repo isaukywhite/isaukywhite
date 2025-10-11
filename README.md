@@ -38,6 +38,25 @@ class IsacMartins:
         print("Control the Matrix 🚀")
 ```
 
+## 🐍 > CONTRIBUTION.MATRIX_
+
+<div align="center">
+
+![Snake Animation](https://github.com/isaukywhite/isaukywhite/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
+</div>
+
+## 📊 > USER.STATS_
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaukywhite&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=00FF41&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaukywhite&layout=compact&langs_count=8&theme=chartreuse-dark&border_color=00FF41&title_color=00FF41&text_color=00FF41&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaukywhite&theme=chartreuse-dark&hide_border=false&border=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
+</div>
+
 ## 🔮 > TECH.STACK_
 
 <div align="center">
@@ -79,17 +98,6 @@ class IsacMartins:
 ![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=sql&logoColor=ffffff&color=000000)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=ffffff&color=000000)
 
-</div>
-
-## 📊 > USER.STATS_
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaukywhite&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=00FF41&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaukywhite&layout=compact&langs_count=8&theme=chartreuse-dark&border_color=00FF41&title_color=00FF41&text_color=00FF41&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaukywhite&theme=chartreuse-dark&hide_border=false&border=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
 </div>
 
 ## 🏆 > ACHIEVEMENTS.UNLOCK_
@@ -147,14 +155,6 @@ const mcpServers = {
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=ffffff&color=000000)](https://discordapp.com/users/Isac%20Martins#4516)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=ffffff&color=000000)](https://api.whatsapp.com/send?phone=5532999644257&text=Ol%C3%A1,%20vim%20pelo%20github)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=ffffff&color=000000)](https://t.me/IsacMartins012)
-
-</div>
-
-## 🐍 > CONTRIBUTION.MATRIX_
-
-<div align="center">
-
-![Snake Animation](https://github.com/isaukywhite/isaukywhite/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
 
 </div>
 
