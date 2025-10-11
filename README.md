@@ -14,7 +14,7 @@ $ whoami
 > Status: [ ONLINE ] - Building the future with intelligent systems
 ```
 
-### 🧬 > ABOUT.MATRIX_
+### 🧬 > ABOUT.USER_
 
 ```python
 class IsacMartins:
