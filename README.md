@@ -22,7 +22,7 @@ class IsacMartins:
         self.name = "Isac Martins"
         self.role = "Fullstack Developer"
         self.specialization = ["AI Agents", "MCP", "Intelligent Systems"]
-        self.location = "Matrix 🌐"
+        self.location = "Tocantins/MG, Brazil"
 
     def get_current_focus(self):
         return {
